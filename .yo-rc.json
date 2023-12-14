@@ -33,7 +33,7 @@
     "microfrontends": [],
     "nativeLanguage": "en",
     "otherModules": [],
-    "packageName": "org.ujar.jh.petclinic.reactbdd",
+    "packageName": "dev.knowhowto.jh.petclinic.reactbdd",
     "pages": [],
     "prodDatabaseType": "mariadb",
     "reactive": true,

@@ -1,7 +1,7 @@
 sourceSets {
     test {
         java {
-            exclude 'org/ujar/jh/petclinic/reactbdd/config/MariadbTestContainer.java'
+            exclude 'dev/knowhowto/jh/petclinic/reactbdd/config/MariadbTestContainer.java'
         }
     }
 }
